@@ -1,4 +1,4 @@
-# Nationality, Gender, Age, Dress Color and Emotion Detection GUI 🧑‍💻🎭
+# Nationality, Gender, Age, Dress Color and Emotion Detection GUI 
 
 This project provides a **Tkinter-based GUI** for detecting:
 - Nationality  
